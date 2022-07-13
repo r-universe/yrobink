@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "ROOPSD",
+    "oncran": true
+  }
+]
