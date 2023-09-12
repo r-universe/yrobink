@@ -6,3 +6,6 @@
 	path = ROOPSD
 	url = https://github.com/yrobink/roopsd
 	subdir = ROOPSD
+[submodule "SBCK"]
+	path = SBCK
+	url = https://github.com/cran/SBCK
